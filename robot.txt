@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /categories/
+Allow: /tags/
+Allow: /archives/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+Disallow: /img/
+Disallow: /lib/
+
+Sitemap: https://wengxiaotao.github.io/Star_Nights.github.io/sitemap.xml
+Sitemap: https://wengxiaotao.github.io/Star_Nights.github.io/baidusitemap.xml

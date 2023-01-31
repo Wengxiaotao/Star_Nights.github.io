@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Star_Nights的博客</title>
+  
+  <subtitle>一个学生记录日常的地方</subtitle>
+  <link href="https://wengxiaotao.github.io/Star_Nights.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://wengxiaotao.github.io/Star_Nights.github.io/"/>
+  <updated>2023-01-02T05:09:16.714Z</updated>
+  <id>https://wengxiaotao.github.io/Star_Nights.github.io/</id>
+  
+  <author>
+    <name>Star_Nights</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo的使用</title>
+    <link href="https://wengxiaotao.github.io/Star_Nights.github.io/2023/01/31/a_blog/"/>
+    <id>https://wengxiaotao.github.io/Star_Nights.github.io/2023/01/31/a_blog/</id>
+    <published>2023-01-31T11:46:39.735Z</published>
+    <updated>2023-01-02T05:09:16.714Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="hexo的使用"><a href="#hexo的使用" class="headerlink" title="hexo的使用"></a>hexo的使用</h1><p>不知道为什么，这个东西……他这个格式怎么都出不来，很愁人啊</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;hexo的使用&quot;&gt;&lt;a href=&quot;#hexo的使用&quot; class=&quot;headerlink&quot; title=&quot;hexo的使用&quot;&gt;&lt;/a&gt;hexo的使用&lt;/h1&gt;&lt;p&gt;不知道为什么，这个东西……他这个格式怎么都出不来，很愁人啊&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wengxiaotao.github.io/Star_Nights.github.io/2023/01/31/hello-world/"/>
+    <id>https://wengxiaotao.github.io/Star_Nights.github.io/2023/01/31/hello-world/</id>
+    <published>2023-01-31T11:46:39.735Z</published>
+    <updated>2023-01-02T05:12:19.745Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>成都行</title>
+    <link href="https://wengxiaotao.github.io/Star_Nights.github.io/2023/01/22/%E6%88%90%E9%83%BD%E8%A1%8C/"/>
+    <id>https://wengxiaotao.github.io/Star_Nights.github.io/2023/01/22/%E6%88%90%E9%83%BD%E8%A1%8C/</id>
+    <published>2023-01-22T14:55:47.000Z</published>
+    <updated>2023-01-23T04:34:18.679Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="成都之行"><a href="#成都之行" class="headerlink" title="成都之行"></a>成都之行</h1><p>1月12号，距离上次来到成都已经过了三年，我再次踏上了这片熟悉的土地，论起我的故乡，第一是祖籍重庆，第二是居住的北京，第三就是成都了。在这里，我有了一个美好的回忆。</p><h2 id="第一天"><a href="#第一天" class="headerlink" title="第一天"></a>第一天</h2><p>这一天，是成都之行的第一天，我们早上五点就起来了，坐快车来到了荣昌北站。</p><p>坐着动车，我们来到了成都东站，花了一个多小时，我们的行程是打算先去四川博物院的，但中午的成都很堵，所以又坐了四十多分钟车才到，到博物院的时候已经十点多了。我们进了博物馆，里面有很多的展厅。具体请看<a href="https://wengxiaotao.github.io/Star_Nights.github.io/2023/01/12/ysbyg/">游四川博物院有感</a>。</p><p>但不知道为啥，爸爸知道了我们在成都，非要让我们去看看婆婆，我也拗不过，只能去看（主要是有不是一家的亲戚在）。当然，这是明天的事了。</p><p>下午，我们到了武侯祠旁的一家叫汉室酒店的住下，我开始上课，妈妈带着那个亲戚出去了，这让我很不能理解。</p><p>就这样，到了晚上，我睡下了。</p><h2 id="第二天"><a href="#第二天" class="headerlink" title="第二天"></a>第二天</h2><p>这一天，我上午上了可，下课是因为要来赴约吃饭，所以我们准备去宽窄巷子买些礼物，但是因为我们没打车走了很久，耽误了时间。</p><p>中午，我们吃了火锅，随后我跟着我的大姑去陪婆婆，大姑让我跟他溜了一圈她的单位。随后婆婆让我看了看我、我爸、她自己与爷爷年轻时与小时候的照片。<br><img src="https://wengxiaotao.github.io/cdn/pp.jpeg"></p><h5 id="婆婆年轻时的照片"><a href="#婆婆年轻时的照片" class="headerlink" title="婆婆年轻时的照片"></a>婆婆年轻时的照片</h5><p><img src="https://wengxiaotao.github.io/cdn/gf1.jpeg"></p><h5 id="爷爷年轻时在坦桑尼亚的照片-左边的"><a href="#爷爷年轻时在坦桑尼亚的照片-左边的" class="headerlink" title="爷爷年轻时在坦桑尼亚的照片(左边的)"></a>爷爷年轻时在坦桑尼亚的照片(左边的)</h5><p><img src="https://wengxiaotao.github.io/cdn/gf2.jpeg"></p><h5 id="爷爷年轻时的正面照"><a href="#爷爷年轻时的正面照" class="headerlink" title="爷爷年轻时的正面照"></a>爷爷年轻时的正面照</h5><p><img src="https://wengxiaotao.github.io/cdn/bb.jpeg"></p><h5 id="老爸小时候的照片"><a href="#老爸小时候的照片" class="headerlink" title="老爸小时候的照片"></a>老爸小时候的照片</h5><p>看到这些照片，我对我的亲人又有了新的认识</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;成都之行&quot;&gt;&lt;a href=&quot;#成都之行&quot; class=&quot;headerlink&quot; title=&quot;成都之行&quot;&gt;&lt;/a&gt;成都之行&lt;/h1&gt;&lt;p&gt;1月12号，距离上次来到成都已经过了三年，我再次踏上了这片熟悉的土地，论起我的故乡，第一是祖籍重庆，第二是居住的北京，第三就</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>游四川博物院</title>
+    <link href="https://wengxiaotao.github.io/Star_Nights.github.io/2023/01/12/ysbyg/"/>
+    <id>https://wengxiaotao.github.io/Star_Nights.github.io/2023/01/12/ysbyg/</id>
+    <published>2023-01-12T08:31:19.000Z</published>
+    <updated>2023-01-12T15:51:42.265Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="四川博物馆之旅"><a href="#四川博物馆之旅" class="headerlink" title="四川博物馆之旅"></a>四川博物馆之旅</h1><p>这天（1月12号），我坐着动车来到了四川博物院，结合这次的看展经历，我来谈谈关于这次旅行的感想。</p><hr><h3 id="一、“高山仰止，回望东坡”——苏轼主题特展"><a href="#一、“高山仰止，回望东坡”——苏轼主题特展" class="headerlink" title="一、“高山仰止，回望东坡”——苏轼主题特展"></a>一、“高山仰止，回望东坡”——苏轼主题特展</h3><p>这个展览包罗了各式各样的宋代文物，小到捶丸，大到石碑；既有典雅的瓷盏，也有华丽的金盏。<br><img src="https://wengxiaotao.github.io/cdn/NEWS_4A574A16CBCAE0028D2C494177469793.JPG"><br>从这些文物中，既能反映苏轼的一生，也能反映出宋朝人们生活的方方面面。<br><img src="https://wengxiaotao.github.io/cdn/NEWS_C95BB977B0D44866484358488A45E8AD.JPG"><br>总而言之，这是一个反映北宋中后期的特展，非常不错。（看展前必修：《苏东坡传》）</p><p>推荐指数：4.5颗星</p><hr><h3 id="二、远古四川"><a href="#二、远古四川" class="headerlink" title="二、远古四川"></a>二、远古四川</h3><p>这个展让我感到有一点点失望：有一点太低幼了。很多互动的，但没有什么特别吸引人的与令人震惊的东西（也有可能是因为我过得太快了）。</p><p>推荐指数：3颗星（亲子4颗）</p><hr><h3 id="三、古代四川"><a href="#三、古代四川" class="headerlink" title="三、古代四川"></a>三、古代四川</h3><p>这个展藏着四川博物馆的很多重要文物，像什么比较精美的青铜器啊，三星堆的一些文物啊，都能在这个展中看到。没什么好说的，这个展必去。</p><p>推荐指数：5颗星</p><hr><h3 id="四、其他……"><a href="#四、其他……" class="headerlink" title="四、其他……"></a>四、其他……</h3><h4 id="1-藏族专展"><a href="#1-藏族专展" class="headerlink" title="1.藏族专展"></a>1.藏族专展</h4><p>没看到，不予评价。</p><h4 id="2-张大千专展"><a href="#2-张大千专展" class="headerlink" title="2.张大千专展"></a>2.张大千专展</h4><p>适合对书画有兴趣的同学去看这个展览，尤其是对国画有兴趣的同学，但我看张大千临摹的敦煌壁画的时候总感觉他用蓝用得太明亮、太刺眼了，而且张大千在我心中也没什么好印象，所以我不太喜欢这个展览。</p><h4 id="3-当代书画展（同“高山仰止，回望东坡”）"><a href="#3-当代书画展（同“高山仰止，回望东坡”）" class="headerlink" title="3.当代书画展（同“高山仰止，回望东坡”）"></a>3.当代书画展（同“高山仰止，回望东坡”）</h4><p>给你们两个名字，你们自己去看吧：<br><b>曾翔、李强</b>  （惨不忍睹）</p><hr><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>四川博物馆整体给我的印象还是蛮好的，就是pc端的上网登陆界面什么时候做一下？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;四川博物馆之旅&quot;&gt;&lt;a href=&quot;#四川博物馆之旅&quot; class=&quot;headerlink&quot; title=&quot;四川博物馆之旅&quot;&gt;&lt;/a&gt;四川博物馆之旅&lt;/h1&gt;&lt;p&gt;这天（1月12号），我坐着动车来到了四川博物院，结合这次的看展经历，我来谈谈关于这次旅行的感想。&lt;/</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="https://wengxiaotao.github.io/Star_Nights.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>摆烂的一天</title>
+    <link href="https://wengxiaotao.github.io/Star_Nights.github.io/2023/01/02/post/"/>
+    <id>https://wengxiaotao.github.io/Star_Nights.github.io/2023/01/02/post/</id>
+    <published>2023-01-02T08:17:41.000Z</published>
+    <updated>2023-01-02T08:31:50.872Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="摆烂的一天"><a href="#摆烂的一天" class="headerlink" title="摆烂的一天"></a>摆烂的一天</h1><p>今天净在家里做博客了，顺便放两张图测试一下</p><p><img src="https://wengxiaotao.github.io/cdn/Image.jpeg"></p><p><img src="https://wengxiaotao.github.io/cdn/age.jpeg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;摆烂的一天&quot;&gt;&lt;a href=&quot;#摆烂的一天&quot; class=&quot;headerlink&quot; title=&quot;摆烂的一天&quot;&gt;&lt;/a&gt;摆烂的一天&lt;/h1&gt;&lt;p&gt;今天净在家里做博客了，顺便放两张图测试一下&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://wengxiaotao</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My First Blog</title>
+    <link href="https://wengxiaotao.github.io/Star_Nights.github.io/2022/12/24/myfirstblog-1/"/>
+    <id>https://wengxiaotao.github.io/Star_Nights.github.io/2022/12/24/myfirstblog-1/</id>
+    <published>2022-12-24T09:04:47.000Z</published>
+    <updated>2023-01-01T14:03:49.962Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="My-First-Blog"><a href="#My-First-Blog" class="headerlink" title="My First Blog!!!!"></a>My First Blog!!!!</h1><p>this is my first blog and i’ll post it into Hexo.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;My-First-Blog&quot;&gt;&lt;a href=&quot;#My-First-Blog&quot; class=&quot;headerlink&quot; title=&quot;My First Blog!!!!&quot;&gt;&lt;/a&gt;My First Blog!!!!&lt;/h1&gt;&lt;p&gt;this is my first b</summary>
+      
+    
+    
+    
+    <category term="日常" scheme="https://wengxiaotao.github.io/Star_Nights.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="日常" scheme="https://wengxiaotao.github.io/Star_Nights.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+</feed>
